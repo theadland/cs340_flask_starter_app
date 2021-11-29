@@ -247,6 +247,13 @@ Always remember to have your virtual environment running when working on your pr
 ## Install Flask and its Dependencies
 
 This one is pretty straight forward. In your terminal, make sure your virtual environment is active if you have one, and run the following command
+```bash
+brew install mysql
+```
+
+```bash
+pip3 install flask-mysqldb
+```
 
 ```bash
 pip3 install flask-mysqldb
